@@ -1,0 +1,3 @@
+module Profanator
+  # Your code goes here...
+end
