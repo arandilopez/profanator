@@ -9,14 +9,14 @@ Gem::Specification.new do |s|
   s.version     = Profanator::VERSION
   s.authors     = ["Arandi Lopez"]
   s.email       = ["arandilopez.93@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Profanator."
-  s.description = "TODO: Description of Profanator."
+  s.homepage    = "https://github.com/arandilopez/profanator"
+  s.summary     = "Validate profanity."
+  s.description = "Validate profanity of a model attribute or string."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  s.add_dependency "rails", "~> 5.1.0"
+  s.add_dependency "rails", "~> 5.1"
 
   s.add_development_dependency "sqlite3"
 end
