@@ -1,8 +1,5 @@
-# Profanator
-Short description and motivation.
-
-## Usage
-How to use my plugin.
+# WIP: Profanator
+Profanator is a profanity validator for Rails. It's based on a [Laravel package](https://github.com/arandilopez/laravel-profane) I've built.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -21,8 +18,11 @@ Or install it yourself as:
 $ gem install profanator
 ```
 
+## Usage
+WIP: How to use this plugin.
+
 ## Contributing
-Contribution directions go here.
+WIP: Contribution directions go here.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
